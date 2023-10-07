@@ -19,7 +19,8 @@ flask = "^3.0.0"
 python-dotenv = "^1.0.0"
 
 [tool.poetry.scripts]
-run-app = "app.main:run_app"
+run-app = "app.first_chain:run_app"
+run-lab = "app.main:run_lab"
 
 
 [build-system]
