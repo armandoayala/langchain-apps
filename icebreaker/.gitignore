@@ -96,5 +96,4 @@ ENV/
 app/app_local.py
 data/documents
 data/faiss_db
-
-
+vectordb/faiss_index_start
